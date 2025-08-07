@@ -2,91 +2,91 @@
         "nombre_comercial": "Raíz & Forma",
         "portada": [
             {
-                "nombre_producto": "Hogar de Estilo",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Tractor Kioti DK4510",
+                "nombre_categoria": "Tractores",
                 "imagen": "./portada-producto-1.jpg"
             },
             {
-                "nombre_producto": "Silla Helen",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Tractor Kioti CS2520",
+                "nombre_categoria": "Tractores",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
-                "nombre_producto": "Jarron para Flores",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Tractor Kioti RX7320",
+                "nombre_categoria": "Tractores",
                 "imagen": "./portada-producto-3.jpg"
             },
             {
-                "nombre_producto": "Huevos de Madera",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Tractor Kioti PX1153",
+                "nombre_categoria": "Tractores",
                 "imagen": "./portada-producto-4.jpg"
             },
             {
-                "nombre_producto": "Mesa de Madera de Pino",
-                "nombre_categoria": "Mueble",
+                "nombre_producto": "Tractor Kioti NX6020",
+                "nombre_categoria": "Tractores",
                 "imagen": "./portada-producto-5.jpg"
             }
         ],
         "acerca_de": {
-            "nombre_tienda": "Tienda Raíz & Forma",
-            "descripcion": "Diseñamos y seleccionamos muebles con alma: funcionales, duraderos y con carácter propio. Nuestra pasión por los materiales nobles, como la madera maciza, se refleja en cada pieza que ofrecemos."
+            "nombre_tienda": " TIENDA KIOTI",
+            "descripcion": "El éxito de Daedong hoy no es un sueño, ¡es una realidad! "
         },
         "productos": [
             {
-				"nombre": "Lorem Sofá Max",
-				"precio_anterior": "499.99",
-				"precio": "429.99",
+				"nombre": "Tractor Kioti DK4510",
+				"precio_anterior": "$250,000",
+				"precio": "$250,000",
 				"imagen": "./producto-1.jpg",
-				"categoria": "Sofás"
+				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Ipsum Mesa Central",
-				"precio_anterior": "299.99",
-				"precio": "249.99",
+				"nombre": "Tractor Kioti CS2520",
+				"precio_anterior": "$437,500",
+				"precio": "$437,500",
 				"imagen": "./producto-2.jpg",
-				"categoria": "Mesas"
+				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Dolor Silla Pro",
-				"precio_anterior": "89.99",
-				"precio": "74.99",
+				"nombre": "Tractor Kioti RX7320",
+				"precio_anterior": "250,000",
+				"precio": "250,000",
 				"imagen": "./producto-3.jpg",
-				"categoria": "Sillas"
+				"categoria": "Tractores"
 			},
 			{
 				"nombre": "SitSofá Lounge",
 				"precio_anterior": "599.99",
 				"precio": "519.99",
 				"imagen": "./producto-4.jpg",
-				"categoria": "Sofás"
+				"categoria": "Tractores"
 			},
 			{
 				"nombre": "Amet Mesa Extensible",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
 				"imagen": "./producto-5.jpg",
-				"categoria": "Mesas"
+				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Elit Silla Nordic",
+				"nombre": "Tractor Kioti PX1153",
 				"precio_anterior": "119.99",
 				"precio": "99.99",
 				"imagen": "./producto-6.jpg",
-				"categoria": "Sillas"
+				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Adipiscing Sofá Retro",
-				"precio_anterior": "459.99",
-				"precio": "399.99",
+				"nombre": "Tractor Kioti PX1153",
+				"precio_anterior": "$500,000",
+				"precio": "$500,000",
 				"imagen": "./producto-7.jpg",
-				"categoria": "Sofás"
+				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Tempor Mesa Minimal",
-				"precio_anterior": "199.99",
-				"precio": "159.99",
+				"nombre": "Tractor Kioti NX6020",
+				"precio_anterior": "$312,500",
+				"precio": "$312,500",
 				"imagen": "./producto-8.jpg",
-				"categoria": "Mesas"
+				"categoria": "Tractores"
 			}
         ],
         "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
@@ -101,4 +101,5 @@
 			}
 		],
 		"descargar_catalogo_url": ""
+
     }
