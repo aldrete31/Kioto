@@ -4,22 +4,22 @@
             {
                 "nombre_producto": "Tractor Kioti DK4510",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-1.jpg"
+                "imagen": "./7.png"
             },
             {
                 "nombre_producto": "Tractor Kioti CS2520",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-2.jpg"
+                "imagen": "./1.png"
             },
             {
                 "nombre_producto": "Tractor Kioti RX7320",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-3.jpg"
+                "imagen": "./9.png"
             },
             {
                 "nombre_producto": "Tractor Kioti PX1153",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-4.jpg"
+                "imagen": "./portada-producto-4.jng"
             },
             {
                 "nombre_producto": "Tractor Kioti NX6020",
@@ -103,4 +103,5 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
