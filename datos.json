@@ -19,12 +19,12 @@
             {
                 "nombre_producto": "Tractor Kioti PX1153",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-4.jng"
+                "imagen": "./15.png"
             },
             {
                 "nombre_producto": "Tractor Kioti NX6020",
                 "nombre_categoria": "Tractores",
-                "imagen": "./portada-producto-5.jpg"
+                "imagen": "./8.png"
             }
         ],
         "acerca_de": {
@@ -33,59 +33,46 @@
         },
         "productos": [
             {
-				"nombre": "Tractor Kioti DK4510",
-				"precio_anterior": "$250,000",
-				"precio": "$250,000",
-				"imagen": "./producto-1.jpg",
+				"nombre": "Tractor Kioti DK580n",
+				"precio_anterior": "$542,000.00",
+				"precio": "$542,000.00",
+				"imagen": "./6.png",
 				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Tractor Kioti CS2520",
-				"precio_anterior": "$437,500",
-				"precio": "$437,500",
-				"imagen": "./producto-2.jpg",
+				"nombre": "Tractor Kioti CS2610",
+				"precio_anterior": "$268,500.00",
+				"precio": "$268,500.00",
+				"imagen": "./1.png",
 				"categoria": "Tractores"
 			},
 			{
-				"nombre": "Tractor Kioti RX7320",
-				"precio_anterior": "250,000",
-				"precio": "250,000",
-				"imagen": "./producto-3.jpg",
+				"nombre": "Tractor Kioti RX730",
+				"precio_anterior": "649,000.00",
+				"precio": "$649,000.00",
+				"imagen": "./9.png",
 				"categoria": "Tractores"
+		
 			},
 			{
-				"nombre": "SitSofá Lounge",
-				"precio_anterior": "599.99",
-				"precio": "519.99",
-				"imagen": "./producto-4.jpg",
-				"categoria": "Tractores"
-			},
-			{
-				"nombre": "Amet Mesa Extensible",
-				"precio_anterior": "399.99",
-				"precio": "349.99",
-				"imagen": "./producto-5.jpg",
+				"nombre": "Tractor Kioti PX1153",
+				"precio_anterior": "$1,198,000.00",
+				"precio": "$1,198,000.00",
+				"imagen": "./15.png",
 				"categoria": "Tractores"
 			},
 			{
 				"nombre": "Tractor Kioti PX1153",
-				"precio_anterior": "119.99",
-				"precio": "99.99",
-				"imagen": "./producto-6.jpg",
-				"categoria": "Tractores"
-			},
-			{
-				"nombre": "Tractor Kioti PX1153",
-				"precio_anterior": "$500,000",
-				"precio": "$500,000",
-				"imagen": "./producto-7.jpg",
+				"precio_anterior": "$1,198,000.00",
+				"precio": "$1,198,000.00",
+				"imagen": "./7.png",
 				"categoria": "Tractores"
 			},
 			{
 				"nombre": "Tractor Kioti NX6020",
-				"precio_anterior": "$312,500",
-				"precio": "$312,500",
-				"imagen": "./producto-8.jpg",
+				"precio_anterior": "$679,000.00",
+				"precio": "$679,000.00",
+				"imagen": "./8.png",
 				"categoria": "Tractores"
 			}
         ],
@@ -103,5 +90,6 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
